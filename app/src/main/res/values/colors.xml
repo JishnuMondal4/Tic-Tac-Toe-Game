@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#FF0B2545</color>
+    <color name="teal">#FF13A89E</color>
+    <color name="teal_dark">#FF0D7C74</color>
+    <color name="background">#FFF4F7FA</color>
+    <color name="cell_bg">#FFFFFFFF</color>
+    <color name="x_color">#FF0B2545</color>
+    <color name="o_color">#FF13A89E</color>
+    <color name="win_highlight">#FFFFD166</color>
+</resources>
