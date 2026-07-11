@@ -60,7 +60,7 @@ TicTacToe/
 ### Setup
 1. Clone the repository
    ```bash
-   git clone https://github.com/jishnumondal4/Tic-Tac-Toe-Game.git
+   git clone https://github.com/jishnuMondal4/Tic-Tac-Toe-Game.git
    ```
 2. Open the project folder in Android Studio
 3. Let Gradle sync finish
